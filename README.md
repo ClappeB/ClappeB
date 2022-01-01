@@ -5,7 +5,7 @@ I try to find the right balance between them.
 
 I like open source software and want to participate in one or more.
 
-I am constantly learning new things and gaining new skills as I want to be sharp on my domain.
+I am constantly learning new things as I want to be sharp in my domain.
 
 If you want to reach me, just send an email to : 
       📧 bruno.clappe@viacesi.fr
