@@ -1,11 +1,4 @@
-Hi, I'm Bruno Clappe, a French IT student at CESI Engineering School. I prefer developing softwares rather than doing network or system tasks even if I'm not against it.
+Hi, software engineer here!
 
-This is why I develop using { Java } and () => { Javascript }. Greatly interested in writing good and maintainable code, I focus myself on flexibility, performance and optimization. 
-I try to find the right balance between them.
-
-I like open source software and want to participate in one or more.
-
-I am constantly learning new things as I want to be sharp in my domain.
-
-If you want to reach me, just send an email to : 
-      📧 bruno.clappe@viacesi.fr
+Mostly inclined towards CI/CD processes, devops mentality and wanting to learn plenty of things!
+I feel at my best when all I have to do is automatised, and all that is left to do is sipping a cocktail, but it's been a long time that I'm waiting for it now...
